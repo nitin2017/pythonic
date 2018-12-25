@@ -20,3 +20,6 @@ print(_name)
 
 # Use snake case writing to define variables 
 user_name = "Nitin"
+
+name ,age = "Nitin",28
+print("Hello "+name+ " your age is " + str(age))
